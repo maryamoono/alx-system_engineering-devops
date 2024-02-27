@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# c c c c cc 
+netstat -lp
